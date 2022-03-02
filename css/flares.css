@@ -44,7 +44,7 @@ html, body {
 
 .video_title {
   font-family: 'MonteCarlo', cursive;
-  font-size: 200px;
+  font-size: 20vw;
   color:#FFF;
   transform: rotate(-10deg);
 }
